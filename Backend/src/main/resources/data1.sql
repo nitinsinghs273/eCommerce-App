@@ -1,0 +1,22 @@
+INSERT INTO Product (name, description, brand, category, price, release_date, available, quantity)
+VALUES
+('Honda Civic', 'Compact car with advanced features', 'Honda', 'Car', 25000, '2023-01-10', true, 15),
+('Ford Mustang', 'Sports car with V8 engine', 'Ford', 'Car', 55000, '2023-02-14', true, 5),
+('Yamaha YZF R15', 'Sport bike with 150cc engine', 'Yamaha', 'Bike', 1800, '2023-03-20', true, 25),
+('Harley-Davidson Street 750', 'Cruiser bike for long rides', 'Harley-Davidson', 'Bike', 8000, '2023-04-25', false, 8),
+('Tesla Model 3', 'Electric sedan with autopilot features', 'Tesla', 'Car', 45000, '2023-05-12', true, 12),
+('BMW X5', 'Luxury SUV with high performance', 'BMW', 'Car', 60000, '2023-06-18', true, 7),
+('Kawasaki Ninja ZX-10R', 'Superbike with 1000cc engine', 'Kawasaki', 'Bike', 15000, '2023-07-02', true, 10),
+('Suzuki Hayabusa', 'Superbike for speed enthusiasts', 'Suzuki', 'Bike', 14500, '2023-08-01', true, 6),
+('Audi A8', 'Premium luxury sedan', 'Audi', 'Car', 85000, '2023-09-10', false, 3),
+('Jeep Wrangler', 'Off-road SUV', 'Jeep', 'Car', 40000, '2023-10-05', true, 9),
+('Royal Enfield Classic 350', 'Retro-style bike', 'Royal Enfield', 'Bike', 3500, '2023-11-12', true, 20),
+('Ducati Panigale V4', 'High-performance superbike', 'Ducati', 'Bike', 20000, '2023-12-01', false, 4),
+('Mercedes-Benz GLE', 'Luxury SUV with advanced tech', 'Mercedes-Benz', 'Car', 70000, '2023-01-20', true, 6),
+('KTM Duke 390', 'Performance street bike', 'KTM', 'Bike', 7000, '2023-02-22', true, 15),
+('Toyota Corolla', 'Reliable family car', 'Toyota', 'Car', 22000, '2023-03-12', true, 20),
+('Porsche 911', 'Iconic sports car', 'Porsche', 'Car', 120000, '2023-04-15', true, 2),
+('Honda Gold Wing', 'Luxury touring bike', 'Honda', 'Bike', 27000, '2023-05-18', false, 5),
+('Volvo XC90', 'Safety-first luxury SUV', 'Volvo', 'Car', 65000, '2023-06-25', true, 8),
+('BMW S1000RR', 'Superbike with cutting-edge technology', 'BMW', 'Bike', 19000, '2023-07-15', true, 3),
+('Chevrolet Camaro', 'Muscle car with modern design', 'Chevrolet', 'Car', 50000, '2023-08-30', true, 4);
